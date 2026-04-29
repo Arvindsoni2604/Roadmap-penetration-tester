@@ -1,0 +1,231 @@
+✔ Timeline
+✔ What to study
+✔ Tools to learn
+✔ What to build (GitHub)
+✔ Outcome
+
+🚀 COMPLETE PENETRATION TESTER ROADMAP (TIME-BASED)
+🟢 PHASE 1: FOUNDATION (Week 1–4)
+
+👉 Goal: Build strong basics (MOST IMPORTANT)
+
+📚 Topics
+Networking fundamentals
+TCP/IP, OSI Model
+DNS, HTTP/HTTPS
+Ports & protocols
+Basic cybersecurity concepts
+Linux basics
+🛠 Tools to Learn
+Wireshark (packet analysis)
+Basic Linux commands
+VirtualBox / VMware (setup lab)
+💻 Practice
+Install Kali Linux
+Use terminal daily
+Do beginner rooms on TryHackMe
+📂 GitHub Work
+cybersecurity-notes
+networking.md
+linux-basics.md
+🎯 Outcome
+
+You understand how systems communicate (this is critical)
+
+🟡 PHASE 2: BEGINNER PENTESTING (Week 5–8)
+
+👉 Goal: Learn how hackers start attacks
+
+📚 Topics
+Footprinting & reconnaissance
+Scanning & enumeration
+Basic vulnerabilities
+🛠 Tools
+Nmap (VERY IMPORTANT)
+Netcat
+Gobuster / Dirb
+Whois
+💻 Practice
+Scan machines using Nmap
+Find open ports & services
+Do TryHackMe:
+Pre Security
+Intro to Cyber Security
+Nmap room
+📂 GitHub
+nmap-reports
+tryhackme-writeups
+🎯 Outcome
+
+You can find weaknesses in systems
+
+🟠 PHASE 3: WEB SECURITY (Week 9–12)
+
+👉 Goal: Learn most demanded pentesting skill
+
+📚 Topics (VERY IMPORTANT)
+OWASP Top 10:
+SQL Injection
+XSS
+Authentication bypass
+Broken access control
+🛠 Tools
+Burp Suite (CORE TOOL)
+OWASP ZAP
+Browser DevTools
+💻 Practice
+Use:
+DVWA
+OWASP Juice Shop
+Perform:
+SQL Injection
+XSS attacks
+📂 GitHub
+vulnerability-reports
+sql-injection.md
+xss.md
+🎯 Outcome
+
+You can hack web applications (real-world skill)
+
+🔴 PHASE 4: INTERMEDIATE PENTESTING (Week 13–18)
+
+👉 Goal: Real attack mindset
+
+📚 Topics
+Privilege escalation
+Password attacks
+File upload vulnerabilities
+Reverse shells
+🛠 Tools
+Hydra (brute force)
+John the Ripper
+Hashcat
+LinPEAS / WinPEAS
+💻 Practice
+TryHackMe:
+Offensive Pentesting path
+Hack beginner machines
+📂 GitHub
+Add advanced writeups
+🎯 Outcome
+
+You can gain full system access
+
+🔵 PHASE 5: SCRIPTING + AUTOMATION (Week 19–22)
+
+👉 Goal: Stand out from other freshers
+
+📚 Topics
+Python basics
+Automation
+🛠 Tools / Skills
+Python
+Bash scripting
+💻 Build Projects
+Port scanner
+Subdomain finder
+Password checker
+📂 GitHub
+python-security-tools
+🎯 Outcome
+
+You show real technical ability
+
+🟣 PHASE 6: REAL-WORLD SKILLS (Week 23–26)
+
+👉 Goal: Become job-ready
+
+📚 Topics
+VAPT process
+Report writing
+CVE basics
+Security standards
+🛠 Tools
+Metasploit
+Nikto
+SQLmap
+💻 Practice
+Full pentest workflow:
+Recon
+Scan
+Exploit
+Report
+📂 GitHub
+Full pentest report (VERY IMPORTANT)
+🎯 Outcome
+
+You can perform end-to-end penetration testing
+
+⚫ BONUS (PARALLEL LEARNING)
+🔹 Learn These Side Skills
+Basic cloud (AWS basics)
+Active Directory basics
+API testing
+🔹 Platforms
+TryHackMe (daily)
+Hack The Box (after basics)
+🧠 FULL TOOL LIST (IMPORTANT)
+🔍 Recon & Scanning
+Nmap
+Whois
+Gobuster
+Amass
+🌐 Web Testing
+Burp Suite ⭐
+OWASP ZAP
+SQLmap
+🔐 Exploitation
+Metasploit
+Netcat
+🔑 Password Attacks
+Hydra
+John the Ripper
+Hashcat
+🧠 Enumeration
+LinPEAS / WinPEAS
+💻 Scripting
+Python
+Bash
+📅 DAILY ROUTINE (REALISTIC)
+
+👉 Follow this daily:
+
+2 hours learning
+2 hours practical labs
+30 min notes (GitHub)
+🎯 FINAL RESULT AFTER 6 MONTHS
+
+If you follow this strictly, you will have:
+
+✔ 10+ GitHub projects
+✔ 5–10 lab writeups
+✔ Real pentesting knowledge
+✔ Resume ready
+✔ Ready for:
+
+SOC Analyst
+VAPT Intern
+Junior Pentester
+⚡ IMPORTANT TRUTH
+
+Most beginners fail because:
+
+They only watch videos ❌
+They don’t practice ❌
+They don’t build GitHub ❌
+
+👉 You must:
+✔ Practice daily
+✔ Document everything
+✔ Build projects
+
+🚀 If You Want Next Step
+
+I can give you:
+✅ 
+Exact TryHackMe rooms (step-by-step)
+✅ 
+Daily 6-month study plan (day-wise)
+✅ 
+Beginner → Advanced project ideas with code

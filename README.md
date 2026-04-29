@@ -135,8 +135,8 @@ All activities are performed on **legal platforms** like TryHackMe and Hack The 
 
 ## 📬 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/yourprofile
-* GitHub: https://github.com/yourusername
+* LinkedIn: www.linkedin.com/in/arvindsoni-hmw
+* Instagram: hackmyways
 
 ---
 

@@ -151,7 +151,6 @@ https://tryhackme.com/room/relevant
 
 
 Individual real-machine challenges of Ethical Hacking
-
 Start machine → get IP → enumerate → discover vulnerability → exploit → get user flag → get root flag
 
 Tryhackme Labs:-

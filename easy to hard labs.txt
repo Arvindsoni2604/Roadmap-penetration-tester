@@ -160,34 +160,34 @@ Start machine → get IP → enumerate → discover vulnerability → exploit �
 Tryhackme Labs:-
 
 Vulnversity
-https://tryhackme.com/room/vulnversity?utm_source=chatgpt.com
+https://tryhackme.com/room/vulnversity
 
 Blue
-https://tryhackme.com/room/blue?utm_source=chatgpt.com
+https://tryhackme.com/room/blue
 
 Kenobi
-https://tryhackme.com/room/kenobi?utm_source=chatgpt.com
+https://tryhackme.com/room/kenobi
 
 Steel Mountain
-https://tryhackme.com/room/steelmountain?utm_source=chatgpt.com
+https://tryhackme.com/room/steelmountain
 
 HackPark
-https://tryhackme.com/room/hackpark?utm_source=chatgpt.com
+https://tryhackme.com/room/hackpark
 
 Game Zone
-https://tryhackme.com/room/gamezone?utm_source=chatgpt.com
+https://tryhackme.com/room/gamezone
 
 Skynet
-https://tryhackme.com/room/skynet?utm_source=chatgpt.com
+https://tryhackme.com/room/skynet
 
 Daily Bugle
-https://tryhackme.com/room/dailybugle?utm_source=chatgpt.com
+https://tryhackme.com/room/dailybugle
 
 Overpass 2 – Hacked
-https://tryhackme.com/room/overpass2hacked?utm_source=chatgpt.com
+https://tryhackme.com/room/overpass2hacked
 
 Relevant
-https://tryhackme.com/room/relevant?utm_source=chatgpt.com
+https://tryhackme.com/room/relevant
 
 Internal
 https://tryhackme.com/room/internal?utm_source=chatgpt.com
